@@ -24,14 +24,12 @@ Features:
 Tech Stack:
 **Frontend:**
 - HTML5, CSS3, JavaScript
-- React.js / Vanilla JS / Bootstrap (based on your implementation)
-- Chart.js or Recharts for visualizing telemetry
+- React.js / Bootstrap (based on your implementation)
 
 **Backend:**
 - Node.js + Express.js
-- WebSockets (Socket.IO or native)
 - MongoDB / MySQL (if using persistent data)
 
 **Others:**
 - Git & GitHub
-- Deployment: Vercel, Netlify, or GitHub Pages (frontend) + Render/Heroku (backend)
+- Deployment: Vercel, Netlify, or GitHub Pages
