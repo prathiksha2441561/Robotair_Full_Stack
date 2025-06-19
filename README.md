@@ -1,7 +1,9 @@
 Robot Fleet Monitoring Dashboard:
+
 The **Robot Fleet Monitoring Dashboard** is a web-based application designed to monitor and visualize the real-time telemetry and operational status of multiple robots. This project was built as part of a Full-Stack Developer challenge to demonstrate end-to-end development skills including frontend, backend, WebSocket communication, and deployment.
 
 Features:
+
 **Real-Time Monitoring**
 - Live updates of robot location, speed, battery level, and status
 - WebSocket or polling integration for real-time telemetry data
@@ -22,6 +24,7 @@ Features:
 - Search and filter functionality
 
 Tech Stack:
+
 **Frontend:**
 - HTML5, CSS3, JavaScript
 - React.js / Bootstrap (based on your implementation)
